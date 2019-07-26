@@ -1,6 +1,6 @@
 # Compiler-Design
 Practice and labworks from Compiler Design course
 
-# Tools
+## Tools
 - Flex
 - Bison
