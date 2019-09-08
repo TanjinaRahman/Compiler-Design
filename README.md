@@ -11,3 +11,5 @@ Practice and Labworks from Compiler Design course
 - Find a number is even or odd
 - Calculate sum, sub, mul, div using lex and yacc
 - Take input from file and remove multiple spaces and write in another file
+- Conversion of Binary to Decimal Number
+- Addition and Multiplication of two Decimal Number
