@@ -1,5 +1,5 @@
 # Compiler Design
-Practice and Labworks from Compiler Design course
+Practice and Labworks from Compiler Design course (CSE - 4102)
 
 ## Tools
 - Flex
