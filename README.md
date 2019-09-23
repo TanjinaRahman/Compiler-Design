@@ -76,5 +76,6 @@ We have to run Yacc program before the Lex program. Because Yacc reads the hello
 - Find a number is even or odd
 - Calculate sum, sub, mul, div using lex and yacc
 - Take input from file and remove multiple spaces and write in another file
-- Conversion of Binary to Decimal Number (yacc)
-- Addition and Multiplication of two Decimal Number(yacc)
+- Conversion of binary to decimal number (yacc)
+- Addition and multiplication of two decimal numbers (yacc)
+- Checking an arrithmetic expression is valid or not (lex, lex-yacc both)
