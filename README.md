@@ -1,4 +1,4 @@
-# Compiler-Design
+# Compiler Design
 Practice and Labworks from Compiler Design course
 
 ## Tools
