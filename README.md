@@ -16,16 +16,18 @@ To program Lex and Yacc programs we have to install two packages –
 - Bison : to make the Yacc program work
   
 ### Operating System – Ubuntu
-To install Flex :
-- sudo apt-get upgrade
-- sudo apt-get install flex
-To install Bison :
- - sudo apt-get upgrade
- - sudo apt-get install bison
+- To install Flex :
+  1. sudo apt-get upgrade
+  2. sudo apt-get install flex
+- To install Bison :
+  1. sudo apt-get upgrade
+  2. sudo apt-get install bison
+  
  ### Compilation & Execution:
 
- - Open Command prompt and switch to working directory where lex file (.l) and yacc  file (.y) are stored
- - Let lex and yacc files be “hello.l” and “hello.y’’. Now, we have to follow the preceding steps to compile and run the program.
+ 1. Open Command prompt and switch to working directory where lex file (.l) and yacc  file (.y) are stored
+ 2. Let lex and yacc files be “hello.l” and “hello.y’’. Now, we have to follow the preceding steps to compile and run the program.
+ 
 ### For Compiling Lex file only:
 1. lex hello.l
 2. gcc lex.yy.c -lfl
@@ -57,12 +59,10 @@ To install Bison :
 ### For Compiling Lex file only:
 1. flex hello.l
 2. gcc lex.yy.c
-
 ### For Compiling Lex & Yacc file both:
 1. flex hello.l
 2. bison -dy hello.y
 3. gcc lex.yy.c y.tab.c
-
 ### For Executing the Program
 1. a.exe
 
