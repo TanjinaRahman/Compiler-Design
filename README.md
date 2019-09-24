@@ -79,3 +79,4 @@ We have to run Yacc program before the Lex program. Because Yacc reads the hello
 - Conversion of binary to decimal number (yacc)
 - Addition and multiplication of two decimal numbers (yacc)
 - Checking an arrithmetic expression is valid or not (lex, lex-yacc both)
+- Variable name valid or not
